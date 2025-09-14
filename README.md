@@ -32,6 +32,7 @@ A Telegram bot that serves as your digital guide to the mystical world of Englis
 - Forgotten traditions
 
 ## 🚀 Quick Start
+Search for @eng_lore_bot on Telegram!
 
 
 <img width="886" height="658" alt="image" src="https://github.com/user-attachments/assets/fadb8b37-7f66-4e90-a2ce-e20cab348de8" />
